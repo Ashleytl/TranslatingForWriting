@@ -54,7 +54,7 @@ But they did not show it and they spoke politely about the current and the depth
 
 
 
-### 后记
+## 后记
 
 对比下来，这次自觉最大问题是许多错译的地方。这个与不扎实的语法和没有理解透词意相关，但最大问题还是不够仔细。记得在中间翻译时，面对长句和复杂句，好几次都有一种不想翻译下去的心态。
 
