@@ -1,7 +1,7 @@
-#CH2-Experience
+# CH2-Experience
 
  
-##词汇可能的译法
+## 词汇可能的译法
 下面的词汇，是在翻译过程中，觉得自己与余光中的水平千差万里，特把其中一些词拎出来，做进一步的熟悉与研究。
 
 Usually 每逢
@@ -29,7 +29,7 @@ looked down: 我：望向。余：俯视
 Rising：通常译法：升起。余：涌起
 Slowly：余：缓缓地
 
-##ch2后记
+## ch2后记
 
 初译挺花费时间。知道译文需要译得更好时，就会自然更加细心，耐心。在个别地方，语法词汇上还是会漏译错译，虽比第一次好点，但在初译后，还是得需来回多检查自己的译文。
 
@@ -64,7 +64,7 @@ Slowly：余：缓缓地
 中文余光中的翻译，保持与英文的词性的顺序，增强语感层次。
 
 
-###语句顺序
+### 语句顺序
 >He rolled his trousers up to make a pillow, putting the newspaper inside them.
 
 >- 我： 他把裤子卷起来，做成一个枕头，把报纸放在裤子里。
@@ -74,7 +74,7 @@ Slowly：余：缓缓地
 
 英文与中文的区别本就在句子前后的时间顺序不一样，这是翻译中可留意的地方。
 
-###翻译中文时的词汇画面感
+### 翻译中文时的词汇画面感
 
 1. He fitted the rope lashings of the oars onto the thole pins and, leaning forward against the thrust of the blades in the water, he began to row out of the harbor in the dark.
 
@@ -102,6 +102,6 @@ Slowly：余：缓缓地
 留意文中经常出现的英文词汇，单独列出，找出它可能译成中文的字词。余光中用词精准，可多多思考直译之外可有的相义词。  
 
 
-###ChangeLog
+### ChangeLog
 - 20180509 draft
 
