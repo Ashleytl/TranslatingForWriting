@@ -4,29 +4,29 @@
 ## 词汇可能的译法
 下面的词汇，是在翻译过程中，觉得自己与余光中的水平千差万里，特把其中一些词拎出来，做进一步的熟悉与研究。
 
-Usually 每逢
-Now 如今，现在
-Rising 涌起，升起
-Never从没，从未
-Shivering 索索发抖，直打哆嗦
-Different 可不同，不一样。
-（bare-footed on ）the coral rocks 踏在，踩在，走在。
-Good luck 祝你好运，一帆风顺 
-leaning forward 向前俯倾
-the old man heard the dip and push of their oars 但能听到（余：木浆起落之声）
-Sometimes 有时，间或
-Smell：味道，气息
-He was sorry for the birds， Sorry 我：难过；余：恻然；张：忧愁
-especially 特别，尤其
-small sad voices 我：无力伤心的声音。余：低声悲吟着。张：小小的悲哀的鸣声。
-enemy： 敌人（余张：仇敌）
-if she did wild or wicked things ：如果她作出一些**野蛮的或不道德的事**（余：撒野作恶）
-green-sapped：烤干，烘干
-well in toward the shore 所以这里是意译吗？ 离开海岸？ 还是靠近海岸。
-look straight： 余：正视；张：毕直望去。
-before the mast 水手
-looked down: 我：望向。余：俯视
-Rising：通常译法：升起。余：涌起
+Usually 每逢  
+Now 如今，现在  
+Rising 涌起，升起  
+Never从没，从未  
+Shivering 索索发抖，直打哆嗦  
+Different 可不同，不一样。  
+（bare-footed on ）the coral rocks 踏在，踩在，走在。  
+Good luck 祝你好运，一帆风顺  
+leaning forward 向前俯倾  
+the old man heard the dip and push of their oars 但能听到（余：木浆起落之声）  
+Sometimes 有时，间或  
+Smell：味道，气息  
+He was sorry for the birds， Sorry 我：难过；余：恻然；张：忧愁  
+especially 特别，尤其  
+small sad voices 我：无力伤心的声音。余：低声悲吟着。张：小小的悲哀的鸣声。  
+enemy： 敌人（余张：仇敌）  
+if she did wild or wicked things ：如果她作出一些**野蛮的或不道德的事**（余：撒野作恶）  
+green-sapped：烤干，烘干  
+well in toward the shore 所以这里是意译吗？ 离开海岸？ 还是靠近海岸。  
+look straight： 余：正视；张：毕直望去。  
+before the mast 水手  
+looked down: 我：望向。余：俯视  
+Rising：通常译法：升起。余：涌起  
 Slowly：余：缓缓地
 
 ## ch2后记
@@ -45,7 +45,7 @@ Slowly：余：缓缓地
 这次碰到的困惑，多是因为中文译的不像中文。这种毛病还是屈服于我们自身的理解仅在字典上而已。例如，余光中翻译，He did not hurry，我们都直译为「他不着急。」余的译法则是：他从容不迫。 He was sorry for the birds， Sorry 我：难过；余：恻然。虽说是要结合上下文，但如何能运用更优美的词语，这只能平时积累，多读好文，多练笔。
 
 
-###直译递进法
+### 直译递进法
 同学在分享时，提出一种中英的直译递进法，中文也可以直接按英文的顺序来保持语感。 
 
 >There are many good fishermen and some great ones. But there is only you.
